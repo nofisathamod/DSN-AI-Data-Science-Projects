@@ -13,7 +13,11 @@ Rabbit
 
 
 DAIRY
-
+MIlk
+Eggs
+Youghurt
+Butter
+Cheese
 
 HOUSEHOLD
 
