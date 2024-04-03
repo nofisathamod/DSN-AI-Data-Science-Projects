@@ -9,7 +9,11 @@ Sausages
 
 
 DAIRY
-
+MIlk
+Eggs
+Youghurt
+Butter
+Cheese
 
 HOUSEHOLD
 
